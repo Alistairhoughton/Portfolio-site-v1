@@ -69,14 +69,14 @@ color: black;
 
 
 .gridwrapper {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    grid-gap: 30px;
-    width: 60%;
-    margin: auto;
-    padding: 20px;
-    margin-top: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 40px;
+  width: 60%;
+  margin: auto;
+  padding-top: 20px;
+  padding: 20px;
   }
 
 /* Card styling below ---------------------------------------------------------------------------------------------- */
